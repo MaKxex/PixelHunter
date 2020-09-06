@@ -1,17 +1,3 @@
-'''
-
-from tkinter import *
-root = Tk()
-def pixel
-
-b.bind('<Button-1>', pixel)
-b.pack
-
-
-root.mainloop()
-
-'''
-
 from tkinter import *
 from PIL import ImageTk, Image
 root = Tk()
