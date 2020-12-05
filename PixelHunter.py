@@ -8,8 +8,6 @@ except Exception as e:
     sys.exit("Restart the script.")
 
 n = input("Сколько раз вывести координаты?")
-if n == 0:
-    print("Больше нуля")
 i = 0
 time.sleep(2)
 while i < int(n):
